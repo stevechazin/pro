@@ -89,6 +89,9 @@
             "H3": {
               "text-align": "right",
               "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_name": "header9",
